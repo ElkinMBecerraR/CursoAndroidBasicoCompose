@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="hola_elkin_feliz_dia_text">Hola Elkin, Feliz Dia</string>
+    <string name="signature_text">From Hulk</string>
+</resources>
